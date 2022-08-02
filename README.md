@@ -1,1 +1,1 @@
-# MachineLearningTemplates
+# Machine Learning Templates
